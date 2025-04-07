@@ -9,7 +9,7 @@ A MERN Stack-based web application to manage departmental infrastructure, lab eq
 
 - [M.Sai Vinayak] 
 - [Y.Sandhya] 
-- [Y.Nitish] (https://github.com/your-username)
+- [Y.Nitish] 
 - [G.Sivani] 
 
 ## 🏗️ Project Overview
