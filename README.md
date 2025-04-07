@@ -7,9 +7,9 @@ A MERN Stack-based web application to manage departmental infrastructure, lab eq
 
 ## 👨‍💻 Team Members / Contributors
 
-- [M.Sai Vinayak] (https://github.com/your-username)
+- [M.Sai Vinayak] 
 - [Y.Sandhya] 
-- [Y.Nitish] 
+- [Y.Nitish] (https://github.com/your-username)
 - [G.Sivani] 
 
 ## 🏗️ Project Overview
@@ -66,36 +66,3 @@ The system provides:
 - Admin-only internal comments
 - Editable/deletable user comments
 - Soft delete support for comments
-
-## 🖼️ Screenshots
-
-> Add screenshots here for dashboard, equipment view, complaint form, etc.
-
-## 🔧 Setup Instructions
-
-1. Clone the repository:
-`bash
-git clone https://github.com/your-team/infrastructure-management-system.git
-
-
-2. Install frontend & backend dependencies:
-bash
-cd client && npm install
-cd ../server && npm install
-
-
-3. Set up environment variables:
-Create `.env` in `/server` folder with:
-``
-MONGO_URI=your-mongodb-uri
-JWT_SECRET=your-secret-key
-CLOUDINARY_URL=your-cloudinary-credentials
-`
-
-4. Run the development servers:
-``bash
-# Terminal 1
-cd server && npm run dev
-
-# Terminal 2
-cd client && npm start
