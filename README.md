@@ -46,7 +46,7 @@ The system provides:
 | Role           | Access                                                             |
 |----------------|--------------------------------------------------------------------|
 | Student        | Request/check-out equipment, report faults                         |
-| Faculty        | Approve requests, manage equipment, verify returns, comment        |
+| Faculty        | Approve requests, manage equipment, verify returns       |
 | Lab Assistant  | Same as Faculty                                                    |
 | HOD            | View reports, oversee approvals, full access                       |
 | Admin          | Full system access                                                 |
